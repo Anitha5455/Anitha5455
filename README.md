@@ -24,6 +24,20 @@ A CNN-based model that predicts human blood groups using image data.
 🔹 [Task Tracker App](https://github.com/Anitha5455/TaskTracker)  
 A web app to track daily tasks.  
 **Tech Used:** HTML, CSS, JavaScript, Java
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<!-- Overall Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Anitha5455&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" height="180"/>
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anitha5455&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
+
+<!-- Contribution Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anitha5455&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
+
+</div>
 
 ---
 
