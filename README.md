@@ -1,52 +1,50 @@
-Public Repositories: 5
-Followers: Check my profile for the latest!
+# 👋 Hi, I'm Anitha Iragamreddy!
 
-(For dynamic stats, you can add GitHub widgets like this:
-)
-🛠️ Skills & Tech Stack
-Based on your projects, here's a suggested skills section. Feel free to customize with your actual expertise! You can use dynamic widgets for top languages.
-Top Languages
+🚀 **Frontend & Backend Developer | Java | SQL | Web Enthusiast**
 
-Core Skills
+---
 
-Languages: Python, Java, JavaScript
-Frameworks & Libraries: React, Node.js, Spring Boot
-Databases: MySQL, MongoDB
-Tools: Git, Docker, VS Code
-Other: CRM Systems, Web Development, API Integration
+### 💫 About Me
+🎯 I’m a passionate developer focused on building responsive and user-friendly web applications.  
+💻 I enjoy turning ideas into clean, efficient, and attractive code.  
+🌱 Currently learning **advanced Java concepts** and improving my **frontend design skills**.  
+🎯 **Goal:** Get a developer job within 3 months.  
 
-(Pro tip: Add badges for visual appeal, e.g., )
-🏗️ Featured Projects
-Here are some of my notable repositories:
+---
 
-A-CRM-APPLICATION-FOR-LAPTOP-RENTALS
-CRM Application on Laptop rentals is about delivering the items to the customers by rental purpose. It leverages the power of customer relationship management (CRM) to enhance customer experiences.
-Final-project-code
-(Description not available – feel free to add one!)
-Project
-(Description not available – feel free to add one!)
-my-first-document
-(Description not available – feel free to add one!)
+### 🛠️ Tech Stack
 
-🔗 Connect with Me
+#### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-📧 Email: (Add your email if you'd like)
-🌐 Website: (Add your personal site)
-🐦 Twitter/X: (Add your handle)
+#### 💻 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPs%20Concepts-007396?style=for-the-badge)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-🏆 GitHub Trophies## Hi there 👋
+#### 🗄️ Database
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!--
-**Anitha5455/Anitha5455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
+![Anitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anitha5455&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anitha5455&layout=compact&theme=tokyonight)
+
+---
+
+### 💼 Projects I'm Proud Of
+- 🧾 **Task Tracker App** – Java project to manage daily tasks   
+
+---
+
+### ✨ Fun Fact
+I love coding late at night while listening to music 🎧
+
+---
+
+⭐️ *Thanks for visiting my profile!*
+
