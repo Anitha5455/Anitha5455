@@ -1,49 +1,41 @@
-# 👋 Hi, I'm Anitha Iragamreddy!
+# 👋 Hi, I'm Anitha!
 
-🚀 **Frontend & Backend Developer | Java | SQL | Web Enthusiast**
+🚀 **Frontend & Java Developer | HTML, CSS, Java, SQL | Passionate Learner**
 
----
-
-### 💫 About Me
-🎯 I’m a passionate developer focused on building responsive and user-friendly web applications.  
-💻 I enjoy turning ideas into clean, efficient, and attractive code.  
-🌱 Currently learning **advanced Java concepts** and improving my **frontend design skills**.  
-🎯 **Goal:** Get a developer job within 3 months.  
+I’m a developer who loves building responsive web apps and learning new technologies every day.  
+Currently working on improving my **full-stack** and **machine learning** skills.
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 💻 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OOPs](https://img.shields.io/badge/OOPs%20Concepts-007396?style=for-the-badge)
-
-#### 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🧰 Tech Stack:
+- 💻 Languages: **Java, HTML, CSS, JavaScript, SQL**
+- 🌐 Frontend: **HTML5, CSS3, JS**
+- 🧩 Backend: **Java (Spring Boot)** *(if applicable)*
+- 🗃️ Database: **MySQL**
+- 🧠 Others: **OOPs, Git, GitHub**
 
 ---
 
-### 📈 GitHub Stats
-![Anitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anitha5455&show_icons=true&theme=tokyonight)
+### 💼 Projects:
+🔹 [Blood Group Detection using CNN](https://github.com/Anitha5455/BloodGroupDetection)  
+A CNN-based model that predicts human blood groups using image data.  
+**Tech Used:** Python, TensorFlow, CNN
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anitha5455&layout=compact&theme=tokyonight)
-
----
-
-### 💼 Projects I'm Proud Of
-- 🧾 **Task Tracker App** – Java project to manage daily tasks   
-
----
-
-### ✨ Fun Fact
-I love coding late at night while listening to music 🎧
+🔹 [Task Tracker App](https://github.com/Anitha5455/TaskTracker)  
+A web app to track daily tasks.  
+**Tech Used:** HTML, CSS, JavaScript, Java
 
 ---
 
-⭐️ *Thanks for visiting my profile!*
+### 🌱 I’m currently learning:
+- Advanced **Frontend Development (React.js)**  
+- **Java + Selenium** automation testing  
 
+---
+
+### 📫 Connect with Me:
+[LinkedIn](https://linkedin.com/in/your-link) | [Gmail](mailto:your-email@gmail.com)
+
+---
+
+⭐ **Fun Fact:** I love solving real-world problems with clean code and creative UI!
