@@ -29,12 +29,11 @@ A web app to track daily tasks.
 
 ### 🌱 I’m currently learning:
 - Advanced **Frontend Development (React.js)**  
-- **Java + Selenium** automation testing  
+
 
 ---
 
-### 📫 Connect with Me:
-[LinkedIn](https://linkedin.com/in/your-link) | [Gmail](mailto:your-email@gmail.com)
+
 
 ---
 
